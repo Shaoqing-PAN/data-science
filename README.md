@@ -1,6 +1,6 @@
-# Machine Learning Project：Post-COVID Crime Prediction Model Development
+# Machine Learning Project: Post-COVID Crime Prediction Model Development
 
-Our Data science program Topic:
+Our machine learning program Topic:
 Developing a Post-COVID Crime Prediction Model: Analyzing Arrest and Future Crime Rate
 
 Our group members:
