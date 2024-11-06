@@ -1,10 +1,10 @@
 # Machine Learning Project: Post-COVID Crime Prediction Model Development
 
-Our machine learning program Topic:
+Topic:
 Developing a Post-COVID Crime Prediction Model: Analyzing Arrest and Future Crime Rate
 
-Our group members:
-Yu Xia, Wei Hui, Jiake Xie (Catherine), Qinlong Li, Shaoqing PAN
+Group members:
+Yu Xia, Wei Hui, Jiake(Catherine)Xie, Qinlong Li, Shaoqing PAN
 
 Background and introduction:
 Chicago is the third most populous city in the United States and also has the highest crime rate compared to less populated areas, where rates tend to be more pronounced. Most crimes are related to the distribution of places, property and people, rather than the patterns of past crimes. This makes it difficult for the Chicago Police Department to improve the accuracy of their crime prediction system.
